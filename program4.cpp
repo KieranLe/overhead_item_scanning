@@ -1,6 +1,4 @@
-// Name: Khanh Le
-// ID  : 1001741583
-// Due : 08/10/2022
+// Name: Kieran Le
 
 //    Copyright 2018 Christopher D. McMurrough
 //
